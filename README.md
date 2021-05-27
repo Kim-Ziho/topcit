@@ -1,6 +1,6 @@
 # TOPCIT
 
-## [1. TOPCIT 개요 IT 비즈니스 이해 및 실행](https://github.com/Kim-Ziho/STUDY_topcit/commit/29601d925cfff87c3ac7b6c99f0768a1c166314b)
+## [1. TOPCIT 개요 IT 비즈니스 이해 및 실행](https://github.com/Kim-Ziho/STUDY_topcit/blob/main/STUDY_TOPCIT_1.md)
 
 ## [2. 프로젝트 관리](https://github.com/Kim-Ziho/STUDY_topcit/commit/ad818c533db688e2d6a7aa1b2a6f3e58ef6bb3de)
 
